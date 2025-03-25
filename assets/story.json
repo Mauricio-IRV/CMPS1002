@@ -364,7 +364,7 @@
         },
         "scene_32": {
             "character_name": "Sora", 
-            "character_sprite": "./assets/character_sprites/sora_talking", 
+            "character_sprite": "./assets/character_sprites/sora_talking.png", 
             "background": "./assets/scenes/common_space.webp", 
             "lighting": "", 
             "sound": "", 
@@ -373,12 +373,210 @@
         }, 
         "scene_33": {
             "character_name": "Sora", 
-            "character_sprite": "./assets/character_sprites/sora_talking", 
+            "character_sprite": "./assets/character_sprites/sora_talking.png", 
             "background": "./assets/scenes/common_space.webp", 
             "lighting": "", 
             "sound": "", 
             "dialogue": "I fold the note and tuck it away. Definitely showing this to Rina later.", 
             "type": "inner_monologue"        
+        },
+        "scene_34": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/sora_talking.png", 
+            "background": "./assets/scenes/common_space.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "Guess it’s time for dinner. Might as well head down.", 
+            "type": "dialogue"
+        }, 
+        "scene_35": {
+            "character_name": "Sora",
+            "character_sprite": "", 
+            "background": "./assets/scenes/doorway_scene.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "As I step out, I collide with something — no, someone.", 
+            "type": "inner_monologue"
+        },
+        "scene_36": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/ellie_normal.png", 
+            "background": "./assets/scenes/doorway_scene.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "A small girl, practically weightless, but the impact still catches me off guard.", 
+            "type": "inner_monologue"
+        },
+        "scene_37": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/ellie_normal.png", 
+            "background": "./assets/scenes/doorway_scene.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "At her feet, a torn piece of paper flutters to the ground. My breath catches.", 
+            "type": "inner_monologue"
+        },
+        "scene_38": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/ellie_normal.png", 
+            "background": "./assets/scenes/doorway_scene.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "It looks just like the one in my pocket.", 
+            "type": "inner_monologue"
+        },
+        "scene_39": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/sora_talking.PNG", 
+            "background": "./assets/scenes/doorway_scene.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "Oh, uh—are you okay?", 
+            "type": "dialogue"
+        },
+        "scene_40": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/ellie_scared.png", 
+            "background": "./assets/scenes/doorway_scene.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "I offer her a hand, but she’s up in an instant, snatching the paper away like I just tried to steal state secrets.", 
+            "type": "inner_monologue"
+        },
+        "scene_41": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/ellie_scared.png", 
+            "background": "./assets/scenes/doorway_scene.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "Suspicious.", 
+            "type": "inner_monologue"
+        },
+        "scene_42": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/ellie_normal.png", 
+            "background": "./assets/scenes/doorway_scene.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "I know this girl. I’ve seen her in pictures with Rina before.", 
+            "type": "inner_monologue"
+        },
+        "scene_43": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/sora_talking.PNG", 
+            "background": "./assets/scenes/doorway_scene.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "You’re Ellie, right? What was that you just dropped?", 
+            "type": "dialogue"
+        },
+        "scene_44": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/ellie_normal.png", 
+            "background": "./assets/scenes/doorway_scene.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "I try not to pry, but let’s be real—curiosity is practically in my DNA.", 
+            "type": "inner_monologue"
+        },
+        "scene_45": {
+            "character_name": "Ellie",
+            "character_sprite": "./assets/character_sprites/ellie_talking.png", 
+            "background": "./assets/scenes/doorway_scene.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "Y-Yeah, that’s right. But it’s— it’s nothing! I-It’s not a-anything to do with you!", 
+            "type": "dialogue"
+        },
+        "scene_46": {
+            "character_name": "Sora",
+            "character_sprite": "", 
+            "background": "./assets/scenes/doorway_scene.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "And just like that, she bolts.", 
+            "type": "inner_monologue"
+        },
+        "scene_47": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/sora_talking.PNG", 
+            "background": "./assets/scenes/doorway_scene.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "(sighs) Yeah, okay. That wasn’t weird at all.", 
+            "type": "dialogue"
+        },
+        "scene_48": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/sora_talking.png", 
+            "background": "./assets/scenes/doorway_scene.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "Can I just have one normal day? Is that too much to ask?", 
+            "type": "inner_monologue"
+        },
+        "scene_49": {
+            "character_name": "Sora",
+            "character_sprite": "", 
+            "background": "./assets/scenes/entrance.png", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "I make my way downstairs, only to be joined by another girl descending beside me.", 
+            "type": "inner_monologue"
+        },
+        "scene_50": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/tomo_talking.png", 
+            "background": "./assets/scenes/entrance.png", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "First impression? Loud.\nSecond impression? Even louder.", 
+            "type": "inner_monologue"
+        },
+        "scene_51": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/tomo_talking.png", 
+            "background": "./assets/scenes/entrance.png", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "She’s covered in makeup, radiating that particular brand of energy that makes me instantly tired.", 
+            "type": "inner_monologue"
+        },
+        "scene_52": {
+            "character_name": "???",
+            "character_sprite": "./assets/character_sprites/tomo_talking.png", 
+            "background": "./assets/scenes/entrance.png", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "Kyahaha! So I guess Rina just lets anyone off the street crash her parties, huh? Where do you go to school—St. Juliet’s School for the Poor?", 
+            "type": "dialogue"
+        },
+        "scene_53": {
+            "character_name": "Sora",
+            "character_sprite": "", 
+            "background": "./assets/scenes/entrance.png", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "A real charmer, this one.", 
+            "type": "inner_monologue"
+        },
+        "scene_54": {
+            "character_name": "Sora",
+            "character_sprite": "", 
+            "background": "./assets/scenes/entrance.png", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "From the bottom of the stairs, Rina shoots her a glare.", 
+            "type": "inner_monologue"
+        },
+        "scene_55": {
+            "character_name": "Rina",
+            "character_sprite": "./assets/character_sprites/rina_evil.PNG", 
+            "background": "./assets/scenes/entrance.png", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "(deadpan, unimpressed) That’s an absolutely tasteless joke to make about my best friend, Tomo. ",
+            "type": "dialogue"
         }
     }
 }
