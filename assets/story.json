@@ -1109,15 +1109,159 @@
             "type": "inner_monologue"
         },
         "scene_115": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/sora_talking.PNG",
+            "background": "./assets/scenes/bedroom.jpg",
+            "lighting": "",
+            "sound": "",
+            "dialogue": "Lying in bed, my thoughts refused to settle. The board. The flickering candles. The cold that hadn't left. Where had that wind come from? Why did it feel like something had actually been there? I told myself it was just drama. Just nerves. But my body didn't believe me. Eventually, my eyes grew heavy, and sleep started to pull me under—",
+            "type": "inner_monologue"
+        },
+        "scene_116": {
+            "character_name": "???",
+            "character_sprite": "",
+            "background": "./assets/scenes/exterior.jpg",
+            "lighting": "",
+            "sound": "scream.mp3",
+            "dialogue": "AAAAAAAAAAAAA—!",
+            "type": "overlay_text"
+        },
+        "scene_117": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/sora_talking.PNG",
+            "background": "./assets/scenes/doorway_scene.WEBP",
+            "lighting": "",
+            "sound": "",
+            "dialogue": "My eyes snapped open. I sat up in bed, heart slamming against my ribs. No time to change—my hoodie was half on, socks mismatched, but I was already out the door and into the hallway. There, huddled on the ground, was Ellie, pointing at a door with wide, terrified eyes. Something red was smeared across the wood in thick, dripping lines. Paint. The smell hit me first—sharp and synthetic. Still wet. Whoever did this was here just moments ago.",
+            "type": "inner_monologue"
+        },
+        "scene_118": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/sora_talking.PNG",
+            "background": "./assets/scenes/doorway_scene.WEBP",
+            "lighting": "",
+            "sound": "",
+            "dialogue": "Ellie—did you see who did this?",
+            "type": "dialogue"
+        },
+        "scene_119": {
+            "character_name": "Ellie",
+            "character_sprite": "./assets/character_sprites/ellie_scared.png",
+            "background": "./assets/scenes/doorway_scene.WEBP",
+            "lighting": "",
+            "sound": "",
+            "dialogue": "N-No… I-I was just going to the bathroom… and then I—I saw—",
+            "type": "dialogue"
+        },
+        "scene_120": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/sora_talking.PNG",
+            "background": "./assets/scenes/doorway_scene.WEBP",
+            "lighting": "",
+            "sound": "",
+            "dialogue": "Hey, can you come out for a sec? Something really weird's going on out here.",
+            "type": "dialogue"
+        },
+        "scene_121": {
+            "character_name": "Ken",
+            "character_sprite": "./assets/character_sprites/ken_talking.PNG",
+            "background": "./assets/scenes/doorway_scene.WEBP",
+            "lighting": "",
+            "sound": "",
+            "dialogue": "Seriously? Are we doing a haunted house bit now? We're in high school. Try to act like it.",
+            "type": "dialogue"
+        },
+        "scene_122": {
+            "character_name": "Tomo",
+            "character_sprite": "./assets/character_sprites/tomo_scared.PNG",
+            "background": "./assets/scenes/doorway_scene.WEBP",
+            "lighting": "",
+            "sound": "",
+            "dialogue": "Who the heck is interrupting my beauty sleep—",
+            "type": "dialogue"
+        },
+        "scene_123": {
+            "character_name": "Rina",
+            "character_sprite": "./assets/character_sprites/rina_scared.PNG",
+            "background": "./assets/scenes/doorway_scene.WEBP",
+            "lighting": "",
+            "sound": "",
+            "dialogue": "Wait… isn't that Ren's room?",
+            "type": "dialogue"
+        },
+        "scene_124": {
+            "character_name": "Sora",
+            "character_sprite": "./assets/character_sprites/sora_talking.PNG",
+            "background": "./assets/scenes/doorway_scene.WEBP",
+            "lighting": "",
+            "sound": "",
+            "dialogue": "Yeah. And he's not answering. The door's locked.",
+            "type": "dialogue"
+        },
+        "scene_125": {
+            "character_name": "Rina",
+            "character_sprite": "./assets/character_sprites/rina_scared.PNG",
+            "background": "./assets/scenes/doorway_scene.WEBP",
+            "lighting": "",
+            "sound": "",
+            "dialogue": "There's a master key downstairs. I'll grab it!",
+            "type": "dialogue"
+        },
+        "scene_126": {
+            "character_name": "Rina",
+            "character_sprite": "./assets/character_sprites/rina_scared.PNG",
+            "background": "./assets/scenes/doorway_scene.WEBP",
+            "lighting": "",
+            "sound": "",
+            "dialogue": "Got it! Sorry, it took a second—it wasn't in the drawer I thought it was. Alright… let's see what the prankster's hiding.",
+            "type": "dialogue"
+        },
+        "scene_127": {
+            "character_name": "Sora",
+            "character_sprite": "",
+            "background": "./assets/scenes/death_scene.PNG",
+            "lighting": "",
+            "sound": "",
+            "dialogue": "He was there. Ren. Slumped on the floor, his back awkwardly propped against the edge of the bed. One hand limp in his lap. Eyes wide open. Staring at nothing. I rushed to him— Grabbed his shoulders—",
+            "type": "inner_monologue"
+        },
+        "scene_128": {
+            "character_name": "Sora",
+            "character_sprite": "",
+            "background": "./assets/scenes/death_scene.PNG",
+            "lighting": "",
+            "sound": "",
+            "dialogue": "Ren? Hey—wake up!",
+            "type": "dialogue"
+        },
+        "scene_129": {
+            "character_name": "Sora",
+            "character_sprite": "",
+            "background": "./assets/scenes/death_scene.PNG",
+            "lighting": "",
+            "sound": "",
+            "dialogue": "It wasn't an accident. And it wasn't supernatural. Ren was murdered. By someone in this house.",
+            "type": "dialogue"
+        },
+        "scene_130": {
+            "character_name": "Sora",
+            "character_sprite": "",
+            "background": "./assets/scenes/death_scene.PNG",
+            "lighting": "",
+            "sound": "",
+            "dialogue": "The door was locked from the outside… using fishing line. That explains the broken thread caught beneath the frame. The killer painted the door, closed it, then used the wire to pull the handle and engage the lock. That's why there's paint on the inside handle—Ren couldn't have done that from the outside. And the murder weapon? A garrote—thin wire, like the one under the bed. This wasn't supernatural. This was cold, planned… and personal.",
+            "type": "inner_monologue"
+        },
+        "scene_131": {
             "character_name": "Tomo",
             "character_sprite": "./assets/character_sprites/tomo_talking.PNG",
             "background": "./assets/scenes/dining_room.jpg",
             "lighting": "",
             "sound": "",
-            "dialogue": "Okay but like, why would anyone use paint? That whole ‘bloody door' thing was so extra.",
+            "dialogue": "Okay but like, why would anyone use paint? That whole 'bloody door' thing was so extra.",
             "type": "dialogue"
         },
-        "scene_116": {
+        "scene_132": {
             "character_name": "Ken",
             "character_sprite": "./assets/character_sprites/ken_smart.PNG",
             "background": "./assets/scenes/dining_room.jpg",
@@ -1126,7 +1270,7 @@
             "dialogue": "Red paint doesn't dry instantly. Someone did it right before the scream, otherwise it would've been tacky or dry. Which means they were right outside the room.",
             "type": "dialogue"
         },
-        "scene_117": {
+        "scene_133": {
             "character_name": "Tomo",
             "character_sprite": "./assets/character_sprites/tomo_scared.PNG",
             "background": "./assets/scenes/dining_room.jpg",
@@ -1135,7 +1279,7 @@
             "dialogue": "…Wait, so wouldn't Ren have heard someone painting his door?",
             "type": "dialogue"
         },
-        "scene_118": {
+        "scene_134": {
             "character_name": "Ken",
             "character_sprite": "./assets/character_sprites/ken_smart.PNG",
             "background": "./assets/scenes/dining_room.jpg",
@@ -1144,7 +1288,7 @@
             "dialogue": "Exactly. Assuming he was alive at the time.",
             "type": "dialogue"
         },
-        "scene_119": {
+        "scene_135": {
             "character_name": "Ken",
             "character_sprite": "./assets/character_sprites/ken_smart.PNG",
             "background": "./assets/scenes/ghost_calling_scene.jpg",
@@ -1153,7 +1297,7 @@
             "dialogue": "You know, if you wanted to create a perfect ghost hoax, all you'd need is some monofilament line and a decent knowledge of physics.",
             "type": "dialogue"
         },
-        "scene_120": {
+        "scene_136": {
             "character_name": "Hana",
             "character_sprite": "./assets/character_sprites/hana_normal.png",
             "background": "./assets/scenes/ghost_calling_scene.jpg",
@@ -1162,7 +1306,7 @@
             "dialogue": "…Fishing line's basically invisible under candlelight.",
             "type": "dialogue"
         },
-        "scene_121": {
+        "scene_137": {
             "character_name": "Ren",
             "character_sprite": "./assets/character_sprites/ren_normal.png",
             "background": "./assets/scenes/ghost_calling_scene.jpg",
@@ -1171,7 +1315,7 @@
             "dialogue": "Man, you sound like you've done this before.",
             "type": "dialogue"
         },
-        "scene_122": {
+        "scene_138": {
             "character_name": "Hana",
             "character_sprite": "./assets/character_sprites/hana_normal.png",
             "background": "./assets/scenes/ghost_calling_scene.jpg",
@@ -1180,7 +1324,7 @@
             "dialogue": "Some tricks are just common sense if you're not an idiot.",
             "type": "dialogue"
         },
-        "scene_123": {
+        "scene_139": {
             "character_name": "Sora",
             "character_sprite": "./assets/character_sprites/sora_talking.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1189,7 +1333,7 @@
             "dialogue": "Hey, didn't you use this paint set for that dumb portrait of Tomo last year?",
             "type": "dialogue"
         },
-        "scene_124": {
+        "scene_140": {
             "character_name": "Rina",
             "character_sprite": "./assets/character_sprites/rina_scared.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1198,7 +1342,7 @@
             "dialogue": "Oh god, yeah. She made me repaint her eyelashes three times. Why?",
             "type": "dialogue"
         },
-        "scene_125": {
+        "scene_141": {
             "character_name": "Sora",
             "character_sprite": "./assets/character_sprites/sora_talking.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1207,7 +1351,7 @@
             "dialogue": "This red paint—it's the same one on the door. Was this always in here?",
             "type": "dialogue"
         },
-        "scene_126": {
+        "scene_142": {
             "character_name": "Rina",
             "character_sprite": "./assets/character_sprites/rina_scared.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1216,7 +1360,7 @@
             "dialogue": "No, I brought it out before dinner. I was gonna use it for a prank later but I never got the chance. Wait… someone must've taken it from this room.",
             "type": "dialogue"
         },
-        "scene_127": {
+        "scene_143": {
             "character_name": "Sora",
             "character_sprite": "./assets/character_sprites/sora_talking.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1225,7 +1369,7 @@
             "dialogue": "The door was locked from the outside… using fishing line. That explains the broken thread caught beneath the frame. The killer painted the door, closed it, then used the wire to pull the handle and engage the lock. That's why there's paint on the inside handle—Ren couldn't have done that from the outside. And the murder weapon? A garrote—thin wire, like the one under the bed. This wasn't supernatural. This was cold, planned… and personal.",
             "type": "inner_monologue"
         },
-        "scene_128": {
+        "scene_144": {
             "character_name": "Sora",
             "character_sprite": "./assets/character_sprites/sora_talking.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1234,7 +1378,7 @@
             "dialogue": "It wasn't an accident. And it wasn't supernatural. Ren was murdered. By someone in this house.",
             "type": "dialogue"
         },
-        "scene_129": {
+        "scene_145": {
             "character_name": "Tomo",
             "character_sprite": "./assets/character_sprites/tomo_scared.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1243,7 +1387,7 @@
             "dialogue": "Oh come on—murder? Really?",
             "type": "dialogue"
         },
-        "scene_130": {
+        "scene_146": {
             "character_name": "Ken",
             "character_sprite": "./assets/character_sprites/ken_talking.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1252,7 +1396,7 @@
             "dialogue": "She's right. Door was locked. Windows sealed. He didn't do this to himself.",
             "type": "dialogue"
         },
-        "scene_131": {
+        "scene_147": {
             "character_name": "Ellie",
             "character_sprite": "./assets/character_sprites/ellie_scared.png",
             "background": "./assets/scenes/common_space.webp",
@@ -1261,7 +1405,7 @@
             "dialogue": "B-But it was painted… like the story. The ghost…",
             "type": "dialogue"
         },
-        "scene_132": {
+        "scene_148": {
             "character_name": "Sora",
             "character_sprite": "./assets/character_sprites/sora_talking.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1270,7 +1414,7 @@
             "dialogue": "That was the point. Someone wanted us to believe it. The red paint was fresh. Still wet when Ellie found it. Which means Ren was already dead when it was put there. But there's more—look closely at the door.",
             "type": "dialogue"
         },
-        "scene_133": {
+        "scene_149": {
             "character_name": "Sora",
             "character_sprite": "./assets/character_sprites/sora_talking.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1279,7 +1423,7 @@
             "dialogue": "This was jammed under the door. Fishing line—thin enough to go unnoticed. Strong enough to pull the lock shut from the outside.",
             "type": "dialogue"
         },
-        "scene_134": {
+        "scene_150": {
             "character_name": "Sora",
             "character_sprite": "./assets/character_sprites/sora_talking.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1288,7 +1432,7 @@
             "dialogue": "Whoever killed Ren locked the door after leaving. Painted the scene. Pulled the handle shut using this line, then snapped it off and walked away.",
             "type": "dialogue"
         },
-        "scene_135": {
+        "scene_151": {
             "character_name": "Ken",
             "character_sprite": "./assets/character_sprites/ken_talking.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1297,7 +1441,7 @@
             "dialogue": "Which means… it had to be someone who knew how to stage it.",
             "type": "dialogue"
         },
-        "scene_136": {
+        "scene_152": {
             "character_name": "Tomo",
             "character_sprite": "./assets/character_sprites/tomo_scared.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1306,7 +1450,7 @@
             "dialogue": "Okay, but why? Ren was annoying, sure, but not—murder-worthy!",
             "type": "dialogue"
         },
-        "scene_137": {
+        "scene_153": {
             "character_name": "Sora",
             "character_sprite": "./assets/character_sprites/sora_talking.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1315,7 +1459,7 @@
             "dialogue": "Hana.",
             "type": "dialogue"
         },
-        "scene_138": {
+        "scene_154": {
             "character_name": "Hana",
             "character_sprite": "./assets/character_sprites/hana_normal.png",
             "background": "./assets/scenes/common_space.webp",
@@ -1324,7 +1468,7 @@
             "dialogue": "…So what if I did?",
             "type": "dialogue"
         },
-        "scene_139": {
+        "scene_155": {
             "character_name": "Sora",
             "character_sprite": "./assets/character_sprites/sora_talking.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1333,7 +1477,7 @@
             "dialogue": "You knew how fishing line works. You were calm. Too calm. And when I found the murder weapon under the bed—wire fashioned into a garrote—I knew it wasn't some spur-of-the-moment act. You planned this.",
             "type": "dialogue"
         },
-        "scene_140": {
+        "scene_156": {
             "character_name": "Hana",
             "character_sprite": "./assets/character_sprites/hana_normal.png",
             "background": "./assets/scenes/common_space.webp",
@@ -1342,7 +1486,7 @@
             "dialogue": "He wasn't just some punk. He ruined my brother's life. Treated it like a joke. I waited for someone to do something. No one ever did.",
             "type": "dialogue"
         },
-        "scene_141": {
+        "scene_157": {
             "character_name": "Rina",
             "character_sprite": "./assets/character_sprites/rina_scared.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1351,7 +1495,7 @@
             "dialogue": "Hana, you could've told us—",
             "type": "dialogue"
         },
-        "scene_142": {
+        "scene_158": {
             "character_name": "Hana",
             "character_sprite": "./assets/character_sprites/hana_normal.png",
             "background": "./assets/scenes/common_space.webp",
@@ -1360,7 +1504,7 @@
             "dialogue": "And you would've what? Believed me? Told me to let it go? I did what I had to.",
             "type": "dialogue"
         },
-        "scene_143": {
+        "scene_159": {
             "character_name": "Sora",
             "character_sprite": "./assets/character_sprites/sora_talking.PNG",
             "background": "./assets/scenes/common_space.webp",
@@ -1369,7 +1513,7 @@
             "dialogue": "The police are on their way. You'll have to explain the rest to them.",
             "type": "dialogue"
         },
-        "scene_144": {
+        "scene_160": {
             "character_name": "Hana",
             "character_sprite": "./assets/character_sprites/hana_normal.png",
             "background": "./assets/scenes/common_space.webp",
@@ -1378,7 +1522,7 @@
             "dialogue": "Let them come.",
             "type": "dialogue"
         },
-        "scene_145": {
+        "scene_161": {
             "character_name": "Sora",
             "character_sprite": "./assets/character_sprites/sora_talking.PNG",
             "background": "./assets/scenes/doorway_scene.webp",
@@ -1387,7 +1531,7 @@
             "dialogue": "Everyone had gone to bed, or at least tried. Rina sat quietly by the fire. Ken was making calls. Tomo had actually offered Ellie tea—first kind thing she'd done all weekend. I lingered in the hallway, outside Ren's room. There was something still stuck in my chest. Like the story wasn't finished. That's when I saw it—beneath the baseboard. A scrap of paper.",
             "type": "inner_monologue"
         },
-        "scene_146": {
+        "scene_162": {
             "character_name": "Sora",
             "character_sprite": "",
             "background": "./assets/scenes/doorway_scene.webp",
@@ -1396,7 +1540,7 @@
             "dialogue": "Same handwriting as the first one I found under my pillow. Jagged. Uneven. Like it was written in a rush. “He wasn't the only one. The others will pay too.” My blood ran cold. Who wrote this? Hana? Or someone else still hiding in this house? Whatever it was… This wasn't over. Not even close.",
             "type": "inner_monologue"
         },
-        "scene_147": {
+        "scene_163": {
             "character_name": "???",
             "character_sprite": "",
             "background": "./assets/scenes/exterior.jpg",
