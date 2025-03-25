@@ -108,7 +108,8 @@ class Environment {
                 itemContainer.setAttribute("class", "carousel-item");
 
                 const img = document.createElement('img');
-                img.src = './assets/character_sprites/pikachu.png';
+                img.src = item["img_src"];
+                img.alt = "./assets/character_sprites/pikachu.png"
                 itemContainer.appendChild(img);
 
                 carouselItems.appendChild(itemContainer);
@@ -170,6 +171,7 @@ class Environment {
             itemPlaceholder.setAttribute("class", "carousel-placeholder");
             carouselItems.appendChild(itemPlaceholder);
         }
+
     }
 
     // Clear all the item markers in the scene
@@ -426,6 +428,8 @@ async function setScene(action) {
         // Clear any items from the previous scene
         environment.clearItems();
 
+        // Disable the background refreshing the scene over again 
+        
         // For each item in the scene object, get it from the item catalogue and add it to the play area environment
         sceneItems.forEach(itemName => {
             environment.addItem(itemName, itemCatalogue[itemName]);

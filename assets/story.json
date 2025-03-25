@@ -59,8 +59,8 @@
             "pickup": "false"
         }, 
         "common_pillow": {
-            "img_src": "", 
-            "description": "", 
+            "img_src": "./assets/clues/torn_leaflet.png", 
+            "description": "A note that reads 'Don't fall asleep in this room'", 
             "x": "67", 
             "y": "56", 
             "pickup": "true"
@@ -79,7 +79,7 @@
         "scene_1": {
             "character_name": "???",
             "character_sprite": "",
-            "background": "./assets/scenes/exterior.jpg./assets/scenes/exterior.jpg",
+            "background": "./assets/scenes/exterior.jpg",
             "lighting": "",
             "sound": "",
             "dialogue": "I-It wasn't supposed to be like this. It was just a game",
@@ -88,10 +88,8 @@
         "scene_2": {
             "character_name": "???",
             "character_sprite": "",
-            "background": "./assets/scenes/exterior.jpg./assets/scenes/exterior.jpg",
+            "background": "./assets/scenes/exterior.jpg",
             "lighting": "",
-            "sound": "",
-            "dialogue": "He can't really be dead… right?",
             "sound": "",
             "dialogue": "He can't really be dead… right?", 
             "type": "overlay_text"
@@ -361,12 +359,26 @@
             "dialogue": "",
             "type": "none",
             "items": [
-                "common_pillow",
-                "common_bed",
-                "common_corner",
-                "common_desk", 
-                "common_window"
+                "common_pillow"
             ]
+        },
+        "scene_32": {
+            "character_name": "Sora", 
+            "character_sprite": "./assets/character_sprites/sora_talking", 
+            "background": "./assets/scenes/common_space.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "…Huh. That’s not at all concerning.", 
+            "type": "dialogue"
+        }, 
+        "scene_33": {
+            "character_name": "Sora", 
+            "character_sprite": "./assets/character_sprites/sora_talking", 
+            "background": "./assets/scenes/common_space.webp", 
+            "lighting": "", 
+            "sound": "", 
+            "dialogue": "I fold the note and tuck it away. Definitely showing this to Rina later.", 
+            "type": "inner_monologue"        
         }
     }
 }
